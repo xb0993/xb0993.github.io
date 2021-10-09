@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title> BIIXN GUO </title>
+  <title>BIIXN_GUO</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -8,6 +8,11 @@
   <link href="http://example.com/"/>
   <updated>2021-10-09T02:59:09.951Z</updated>
   <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
